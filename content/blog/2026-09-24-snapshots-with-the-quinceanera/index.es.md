@@ -14,7 +14,7 @@ my imposter syndrome wouldn't let me to think so. But applied anyway, got invite
 
 [FIXME image of unconf18]
 
-## The importance and impact of a community manager
+## Make it someone's job to manage the community
 
 At the unconf I had an ackward. After a few minutes wondering around project proposals we were supposed to organically split into groups and start working on whatever you found interesting. And everyone did, except me. I was paralized. "Should I work on this or that cool project? Should I work with this or that cool person?". So I sat by myself, opened my laptop and stared at it. 
 
@@ -22,17 +22,9 @@ Our community manager then came to the rescue. Back then it was[Stefanie Butland
 
 That was the first time I ralized the importance and impact of a community manager. If you really want everyone to feel welcome and included, you can't just say it and expect it'll happen; it's best to be intentional and make it someone's job.
 
-Since then I continued to learn from our community manager. In 2022 Stepfanie moved to [Openscapes](https://openscapes.org/team) and[Yanina Bellini Saibene joined rOpenSci](https://ropensci.org/blog/2022/06/21/introducing-yanina/).
+## Be respectful and kind -- evertying else is a detail
 
-## Be kind. Evertying else it's a detail.
-
-
-Yanina's work 
-
-
-https://ropensci.org/champions/
-
-[FIXME image of unconf18]
+Over the years I continued to learn from our community manager. In 2022 Stepfanie moved to [Openscapes](https://openscapes.org/team) and her role at rOpenSci was taken by [Yanina Bellini Saibene](https://ropensci.org/blog/2022/06/21/introducing-yanina/). That same year Yani [announced the rOpenSci Champions Program](https://ropensci.org/blog/2022/09/22/launch-champions-program/) and invited me to share how rOpenSci performs [software peer-review](https://ropensci.org/software-review/). As I prepared that talk, Yani made me realize how much we care about the way we communicate with one another. At rOpenSci we have two books full of technical details on how to build [standard](https://devdevguide.netlify.app/) and [statistical](https://stats-devguide.ropensci.org/) packages, but no technical issue will stop you from contributing if you're willing to address the reviewers's feedback respectfully and kindly.
 
 ## Joining slack
 
