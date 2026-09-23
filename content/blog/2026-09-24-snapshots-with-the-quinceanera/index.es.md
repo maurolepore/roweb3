@@ -22,9 +22,15 @@ Our community manager then came to the rescue. Back then it was[Stefanie Butland
 
 That was the first time I ralized the importance and impact of a community manager. If you really want everyone to feel welcome and included, you can't just say it and expect it'll happen; it's best to be intentional and make it someone's job.
 
-## Be respectful and kind -- evertying else is a detail
+## Be respectful and kind
 
-Over the years I continued to learn from our community manager. In 2022 Stepfanie moved to [Openscapes](https://openscapes.org/team) and her role at rOpenSci was taken by [Yanina Bellini Saibene](https://ropensci.org/blog/2022/06/21/introducing-yanina/). That same year Yani [announced the rOpenSci Champions Program](https://ropensci.org/blog/2022/09/22/launch-champions-program/) and invited me to share how rOpenSci performs [software peer-review](https://ropensci.org/software-review/). As I prepared that talk, Yani made me realize how much we care about the way we communicate with one another. At rOpenSci we have two books full of technical details on how to build [standard](https://devdevguide.netlify.app/) and [statistical](https://stats-devguide.ropensci.org/) packages, but no technical issue will stop you from contributing if you're willing to address the reviewers's feedback respectfully and kindly.
+Over the years I continued to learn from our community manager. In 2022 Stepfanie moved to [Openscapes](https://openscapes.org/team) and her role at rOpenSci was taken by [Yanina Bellini Saibene](https://ropensci.org/blog/2022/06/21/introducing-yanina/). That same year Yani [announced the rOpenSci Champions Program](https://ropensci.org/blog/2022/09/22/launch-champions-program/)
+
+By then I had a few years of experience as an associate editor of the [software peer-review program](https://ropensci.org/software-review/) so Yani invited me to talk about the process for aspiring authors and reviewers of the [Champions Program](https://ropensci.org/champions/).
+
+As I prepared [that talk](https://ropensci-training.github.io/software-review/en/) and discussed some ideas with Yani, she made me realize how much we care about the way we communicate with one another. Broken code is easier to fix than broken human relationships. Our guides for [reviewers](https://devguide.ropensci.org/softwarereview_reviewer.html) and [editors](https://devguide.ropensci.org/softwarereview_editor.html) open this message:
+
+> rOpenSci's community is our best asset. We aim for reviews to be open, non-adversarial, and focused on improving software quality. Be respectful and kind! See our reviewers’ guide and [code of conduct](https://ropensci.org/code-of-conduct/) for more.
 
 ## Joining slack
 
