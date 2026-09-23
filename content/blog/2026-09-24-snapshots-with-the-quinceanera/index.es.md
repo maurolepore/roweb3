@@ -4,7 +4,7 @@ rOpenSci cumple 15 y yo estuve a su lado la mayor parte del tiempo. Aca recurdo 
  
 ## Ignore your imposter syndrome
 
-Early in 2018 I came across [this amazing post](https://ropensci.org/blog/2018/02/08/unconf2018/):
+Early in 2018 I came across [this post](https://ropensci.org/blog/2018/02/08/unconf2018/):
 
 > **Apply to attend rOpenSci unconf 2018!**  
 > We’re organizing unconf18 to bring together scientists, developers, and open data enthusiasts from academia, industry, government, and non-profits to get together for a couple of days to hack on various projects and generally enrich our community. 
