@@ -47,7 +47,7 @@ You can make code and non-code contributions to the rOpenSci project. To help yo
 - Lead a workshop.
 - Build a tool to enhance some process.
 
-And this one won't show up in your CV but is by far the most rewarding:
+And this one may not show up in your CV but is by far the most rewarding:
 
 - Give and get support, e.g. mentoring, reviewing grant applications or talks, advice on job seeking, help with a task when someone else is unavailable or overwhelmed.
 
