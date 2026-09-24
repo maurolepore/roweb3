@@ -34,11 +34,11 @@ As I prepared [that talk](https://ropensci-training.github.io/software-review/en
 
 ## Contribute in your own way
 
-You can make code and non-code contributions to the rOpenSci project. To help you find your own ways participate, here is a list of some of my own contributions; only a few required an invitation:
+You can make code and non-code contributions to the rOpenSci project. We have a [community contributing guide](https://contributing.ropensci.org/). Here is a list of some of my own contributions; few required an invitation:
 
 - Attend [events](https://ropensci.org/community/).
-- Participate on slack, e.g. ask or answer questios, or share or discuss ideas, resources and jobs.
 - Help to welcome and onboard new members.
+- Ask or answer questios on slack, or share or discuss ideas or jobs.
 - Improve our documentation, e.g. fix a typo.
 - Write a [blog](https://ropensci.org/blog/) post.
 - Translate or review some work in your native language.
@@ -46,12 +46,11 @@ You can make code and non-code contributions to the rOpenSci project. To help yo
 - Author, review, or edit an R package.
 - Lead a workshop.
 - Build a tool to enhance some process.
+- Give and get support, e.g. mentor, review grant applications or talks, advice or recommendations for jobs, help unavailable or overwhelmed people.
 
-And this one may not show up in your CV but is by far the most rewarding:
+## Attract great people
 
-- Give and get support, e.g. mentoring, reviewing grant applications or talks, advice on job seeking, help with a task when someone else is unavailable or overwhelmed.
-
-For more details see our [community contributing guide](https://contributing.ropensci.org/). 
+If you know someone that would fit in and enjoy the rOpenSci comminity, you can try to [find a way to bring them in](https://contributing.ropensci.org/). For example, I've encouraged people to submit and review packages. Also as an editor I have the occational privilege to nominate other editors. Using this super-power I've attracted two [editors](https://ropensci.org/software-review/) and I now get to enjoy interacting with them quite regularly. 
 
 ## Joining slack
 
