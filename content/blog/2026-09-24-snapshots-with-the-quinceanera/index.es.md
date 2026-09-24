@@ -32,6 +32,27 @@ As I prepared [that talk](https://ropensci-training.github.io/software-review/en
 
 > rOpenSci's community is our best asset. We aim for reviews to be open, non-adversarial, and focused on improving software quality. Be respectful and kind! See our reviewers’ guide and [code of conduct](https://ropensci.org/code-of-conduct/) for more.
 
+## Contribute in your own way
+
+You can make code and non-code contributions to the rOpenSci project. To help you find your own ways participate, here is a list of some of my own contributions; only a few required an invitation:
+
+- Attend [events](https://ropensci.org/community/).
+- Participate on slack, e.g. ask or answer questios, or share or discuss ideas, resources and jobs.
+- Help to welcome and onboard new members.
+- Improve our documentation, e.g. fix a typo.
+- Write a [blog](https://ropensci.org/blog/) post.
+- Translate or review some work in your native language.
+- Pilot a new process.
+- Author, review, or edit an R package.
+- Lead a workshop.
+- Build a tool to enhance some process.
+
+And this one won't show up in your CV but is by far the most rewarding:
+
+- Give and get support, e.g. mentoring, reviewing grant applications or talks, advice on job seeking, help with a task when someone else is unavailable or overwhelmed.
+
+For more details see our [community contributing guide](https://contributing.ropensci.org/). 
+
 ## Joining slack
 
 - I was a solo developer
