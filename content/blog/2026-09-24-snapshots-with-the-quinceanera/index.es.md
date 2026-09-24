@@ -12,8 +12,7 @@ Early in 2018 I came across [this post](https://ropensci.org/blog/2018/02/08/unc
 I had recently transitioning from academia to my first job as a software developer, building a universe of R packages for a group of researchers. And yet, did I think I was a solid candidate? Oh no, 
 my imposter syndrome wouldn't let me to think so. But applied anyway, got invited, and spent two days collaborating with [an incredible bunch of people](https://unconf18.ropensci.org/#participants). Some of them were already rockstars, many others eventually became influential in their own nieche, and all of them were the respectful and kind people that you expect from rOpenSci. Great things happen when you ignore your imposter syndrome. 
 
-## Be respectful and kind^[If]
-
+## Be respectful and kind^[Two books I like are [How to Win Friends and Influence People](https://www.amazon.com/s?k=how+to+win+friends+and+influence+people) and [Crucial Conversations (Third Edition): Tools for Talking When Stakes Are High](https://www.amazon.com/s?k=crucial+conversations)]
 
 In 2022 [launched the first cohort of the rOpenSci Champions Program](https://ropensci.org/blog/2022/09/22/launch-champions-program/). By then I had a few years of experience as an associate editor of the [software peer-review program](https://ropensci.org/software-review/), and [Yani](https://ropensci.org/author/yanina-bellini-saibene/) invited me to talk about the process for aspiring authors and reviewers of the [Champions Program](https://ropensci.org/champions/).
 

@@ -26,3 +26,6 @@ index_cache
 resources/_gen
 .hugo_build.lock
 /layouts/shortcodes/blogdown
+
+/.quarto/
+**/*.quarto_ipynb
